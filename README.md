@@ -28,8 +28,8 @@ Pragmatic, not perfectionist. Code that ships on day one and is still readable o
 
 <p align="center">
   <img src="https://getsweather.com/screenshots/01-hero-score-1000w.png" width="23%" alt="Sweather score" />
-  <img src="https://getsweather.com/screenshots/02-sports-overview-1000w.png" width="23%" alt="Sweather sports overview" />
   <img src="https://getsweather.com/screenshots/03-sport-detail-1000w.png" width="23%" alt="Sweather sport detail" />
+  <img src="https://getsweather.com/screenshots/02-sports-overview-1000w.png" width="23%" alt="Sweather sports overview" />  
   <img src="https://getsweather.com/screenshots/07-widgets-1000w.png" width="23%" alt="Sweather widgets" />
 </p>
 

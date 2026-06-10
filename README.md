@@ -16,10 +16,23 @@ Pragmatic, not perfectionist. Code that ships on day one and is still readable o
 
 ### Things I've built
 
-- **[dumpert-apple-tv](https://github.com/rm335/dumpert-apple-tv)**, a native Apple TV client in Swift 6 and SwiftUI. CloudKit sync, SharePlay, fully localized and accessible, 122 tests so I sleep at night. On TestFlight.
-- **[Sweather](https://getsweather.com)**, a weather app for athletes that works out real-time scores across 44 sports.
-- **[changemonitor.io](https://changemonitor.io)**, website monitoring.
-- **[radiospotify.nl](https://radiospotify.nl)**, a Spotify version of the popular Dutch radio stations.
+**[dumpert-apple-tv](https://github.com/rm335/dumpert-apple-tv)**, a native Apple TV client in Swift 6 and SwiftUI. CloudKit sync, SharePlay, fully localized and accessible, 122 tests so I sleep at night. On TestFlight.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rm335/dumpert-apple-tv/main/assets/screenshot-toppers.jpg" width="32%" alt="DumpertTV home screen" />
+  <img src="https://raw.githubusercontent.com/rm335/dumpert-apple-tv/main/assets/screenshot-categorieen.jpg" width="32%" alt="DumpertTV categories" />
+  <img src="https://raw.githubusercontent.com/rm335/dumpert-apple-tv/main/assets/screenshot-zoeken.jpg" width="32%" alt="DumpertTV search" />
+</p>
+
+**[Sweather](https://getsweather.com)**, a weather app for athletes that works out real-time scores across 44 sports. iPhone, Apple Watch, widgets and Live Activities.
+
+<p align="center">
+  <img src="https://getsweather.com/screenshots/01-hero-score-1000w.png" width="220" alt="Sweather score" />
+  <img src="https://getsweather.com/screenshots/02-sports-overview-1000w.png" width="220" alt="Sweather sports overview" />
+  <img src="https://getsweather.com/screenshots/07-widgets-1000w.png" width="220" alt="Sweather widgets" />
+</p>
+
+And a couple of web things: **[changemonitor.io](https://changemonitor.io)** for website monitoring, and **[radiospotify.nl](https://radiospotify.nl)**, a Spotify version of the popular Dutch radio stations.
 
 ### Open source
 

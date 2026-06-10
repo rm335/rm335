@@ -17,7 +17,7 @@ Pragmatic, not perfectionist. Code that ships on day one and is still readable o
 ### Things I've built
 
 - **[dumpert-apple-tv](https://github.com/rm335/dumpert-apple-tv)**, a native Apple TV client in Swift 6 and SwiftUI. CloudKit sync, SharePlay, fully localized and accessible, 122 tests so I sleep at night. On TestFlight.
-- **Sweather**, a weather app for athletes that works out real-time scores across 44 sports. <!-- add App Store or site link -->
+- **[Sweather](https://getsweather.com)**, a weather app for athletes that works out real-time scores across 44 sports.
 - **[changemonitor.io](https://changemonitor.io)**, website monitoring.
 - **[radiospotify.nl](https://radiospotify.nl)**, a Spotify version of the popular Dutch radio stations.
 
